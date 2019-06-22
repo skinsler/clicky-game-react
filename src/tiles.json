@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./images/harrison.jpg"
+  },
+  {
+    "id": 2,
+    "image": "./images/jackson.jpg"
+  },
+  {
+    "id": 3,
+    "image": "./images/jefferson.jpg"
+  },
+  {
+    "id": 4,
+    "image": "./images/johnadams.jpg"
+  },
+  {
+    "id": 5,
+    "image": "./images/madison.jpg"
+  },
+  {
+    "id": 6,
+    "image": "./images/monroe.jpg"
+  },
+  {
+    "id": 7,
+    "image": "./images/polk.jpg"
+  },
+  {
+    "id": 8,
+    "image": "./images/taylor.jpg"
+  },
+  {
+    "id": 9,
+    "image": "./images/tyler.jpg"
+  },
+  {
+    "id": 10,
+    "image": "./images/vanburen.jpg"
+  },
+  {
+    "id": 11,
+    "image": "./images/washington.jpg"
+  },
+  {
+    "id": 12,
+    "image": "./images/johnquincyadams.jpg"
+  }
+]
