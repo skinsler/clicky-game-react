@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Description
+
+clicky-game-react is a memory game created with React. It features a UI broken into components, component state, and user event handling.
+
+![clicky-game](docs/screenshots/clicky-game.jpg?raw=true "clicky-game")
+
 ## Available Scripts
 
 In the project directory, you can run:
