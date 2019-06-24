@@ -1,12 +1,23 @@
 .navbar {
-  background: gray;
-  height: 110px;
+  background: #172C61;
+  height: 60px;
+  color: white;
+  font-size: 1.4rem;
 }
 
 .navbar a {
   color: white;
-  font-size: 1.3rem;
   text-decoration: none;
   margin: 5px;
   line-height: 3;
+}
+
+.navbar-nav {
+  display: inline-block;
+  width: 100%;
+}
+
+.navbar-nav>li {
+   display: inline-block;
+   width: 33.3%;
 }

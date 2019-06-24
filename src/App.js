@@ -73,9 +73,6 @@ class App extends React.Component {
         highScore = {this.state.highScore}
       />
       <Wrapper>
-        <h1 className="title"
-        //  onClick={() => this.removeFriend(1)}
-        > Presidents</h1>
         {this.state.tileList.map(tile => (
           <Tile
           key={tile.id}

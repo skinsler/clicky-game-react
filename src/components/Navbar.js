@@ -5,12 +5,11 @@ import "../styles/Navbar.css";
 
 function Navbar(props) {
   return (
-    <nav className="navbar">
-      <ul>
-        <li>Clicky Game</li>
-        <li>Message: {props.message}</li>
-        <li>Score: {props.score}</li>
-        <li>Highscore: {props.highScore}</li>
+    <nav className="navbar text-center">
+      <ul className="nav navbar-nav">
+        <li className="nav-item brand">Clicky Game</li>
+        <li className="nav-item">{props.message}</li>
+        <li className="nav-item">Score: {props.score} | Highscore: {props.highScore}</li>
       </ul>
     </nav>
   );
